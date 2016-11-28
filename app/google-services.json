@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "81096709834",
+    "firebase_url": "https://sms-by-voice-7794e.firebaseio.com",
+    "project_id": "sms-by-voice-7794e",
+    "storage_bucket": "sms-by-voice-7794e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81096709834:android:c35533e268bee89a",
+        "android_client_info": {
+          "package_name": "com.rockmanx77777.SMSbyVoice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81096709834-qfjb210hk59v2nq588633d0d29d3bj00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWnow7E6mzrDoJPdAJ-ySASgetNlE-aSo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

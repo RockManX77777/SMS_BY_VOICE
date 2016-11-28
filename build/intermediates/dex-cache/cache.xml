@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Johnny\AndroidStudioProjects\SMS By Voice\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ddfa80ca49f1334afea1f9aa93148be73f73cd0f">
+        <dex dex="C:\Users\Johnny\AndroidStudioProjects\SMS By Voice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-10.0.0_f0aeca44cfa21e0f6e0c4cc91920746275afc88e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Johnny\AndroidStudioProjects\SMS By Voice\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c7ed3fd9d5a9687980dac6c504abd91ad3dfa238">
+        <dex dex="C:\Users\Johnny\AndroidStudioProjects\SMS By Voice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.0.0_303f74d9d111cef62b20d54100c593961f4cb39b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Johnny\AndroidStudioProjects\SMS By Voice\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ce6e6e59212db0893fc36e5b579cf319a84aade8">
+        <dex dex="C:\Users\Johnny\AndroidStudioProjects\SMS By Voice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.0_c3877998dc36366246aaf024cb329fcaaba6f713\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Johnny\AndroidStudioProjects\SMS By Voice\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3660967212b89195e628670db181ed86e3307569">
+        <dex dex="C:\Users\Johnny\AndroidStudioProjects\SMS By Voice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-v4-impl-10.0.0_9cceff1c3750633fdea18556fad1751f65aac2f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Johnny\AndroidStudioProjects\SMS By Voice\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fb0229499e600b485a276d4e31161a3ae31c144c">
+        <dex dex="C:\Users\Johnny\AndroidStudioProjects\SMS By Voice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-10.0.0_93b2b833ca33cab54ed0109fd8d78aeb4cc8433f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Johnny\AndroidStudioProjects\SMS By Voice\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ae809d521d9f7da5337a82edd64eea23a76e788d">
+        <dex dex="C:\Users\Johnny\AndroidStudioProjects\SMS By Voice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-10.0.0_f3239ff6be87ed01cbdf110f2fa53c42271f6d68\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Johnny\AndroidStudioProjects\SMS By Voice\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="741f550aea73f64507fc60a799fefd5a2ea2bef5">
+        <dex dex="C:\Users\Johnny\AndroidStudioProjects\SMS By Voice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-10.0.0_6751cbc8626d7ea97b7e18984fb79d30071dfd6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Johnny\AndroidStudioProjects\SMS By Voice\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="985be85104f6d0c5c5e51e7b7e60d8883a98ac64">
+        <dex dex="C:\Users\Johnny\AndroidStudioProjects\SMS By Voice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.0_79ea1788a0e7859abdd3c7b64af815db6b4d61e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Johnny\AndroidStudioProjects\SMS By Voice\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3347c3e7056fabc88bdbd8fdae65ddf2b674d977">
+        <dex dex="C:\Users\Johnny\AndroidStudioProjects\SMS By Voice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.0_d2565c8ef642210bd19f86e64ddfac1b473149d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Johnny\AndroidStudioProjects\SMS By Voice\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="849da156edbc1201f5cd6e237524187442a62af3">
+        <dex dex="C:\Users\Johnny\AndroidStudioProjects\SMS By Voice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-10.0.0_2132dd19aa9de30c299691ffe2af2021a0d668ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Johnny\AndroidStudioProjects\SMS By Voice\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="73fe8ab7f76e41d0cabbc4fa3399557de52efb2d">
+        <dex dex="C:\Users\Johnny\AndroidStudioProjects\SMS By Voice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-10.0.0_87b46f2b1ecc1ef8386a455490c2584451ce5b13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Johnny\AndroidStudioProjects\SMS By Voice\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c81cf454ebd9053f5503bd202bb0347c9059cf">
+        <dex dex="C:\Users\Johnny\AndroidStudioProjects\SMS By Voice\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ed495b203d5a558061837fe01fe1378507e46833\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Johnny\android-sdks\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\Johnny\AndroidStudioProjects\SMS By Voice\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_d79be691ccb7c7d476109dbfeaaacc64e81b0933\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Johnny\AndroidStudioProjects\SMS By Voice\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="75dbc3537bc912d077b3db2f5ac72d5b43644b2c">
+        <dex dex="C:\Users\Johnny\AndroidStudioProjects\SMS By Voice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.0_901f150bed6da0bbc59e7e2176a73d9319140304\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Johnny\AndroidStudioProjects\SMS By Voice\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\Johnny\AndroidStudioProjects\SMS By Voice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_a069e0ea8561881cee6e4509d5eee5c8a78ef9cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Johnny\AndroidStudioProjects\SMS By Voice\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2b410ae1fda134f470276365f4b7f846269e0d23">
+        <dex dex="C:\Users\Johnny\AndroidStudioProjects\SMS By Voice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.0_77bc4991e65fe5216cb2d832d579ed4c427fb461\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Johnny\AndroidStudioProjects\SMS By Voice\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26b4e3f794f88c0667b97a840b12550a3a6dbeb1">
+        <dex dex="C:\Users\Johnny\AndroidStudioProjects\SMS By Voice\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7170178fa708b2525cdf2c3e11d07de53b222808\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Johnny\AndroidStudioProjects\SMS By Voice\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\Johnny\AndroidStudioProjects\SMS By Voice\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_5d5b642bf148ffe5b786e4d6e7bfca546e976b4e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Johnny\AndroidStudioProjects\SMS By Voice\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a61005619e43f203768ff3f224137def6f029e50">
+        <dex dex="C:\Users\Johnny\AndroidStudioProjects\SMS By Voice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.0_6f326968b439e0490164ebee2d6ea94a815bef8d\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">SMS By Voice</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_sms_by_voice">SMS By Voice</string>
+    <string name="speech_out_button">Listen</string>
+    <string name="speech_in_button">Speak</string>
+    <string name="clear_button">Clear All</string>
+    <string name="send_reply_button">Send Reply</string>
+    <string name="lock_button">Disable Screen Lock?</string>
+    <string name="background_button">Run in background?</string>
+    <string name="center_layout">center_layout</string>
+    <string name="main_layout">main_layout</string>
+    <string name="local_service_started">local_service_started</string>
+    <string name="local_service_label">local_service_label</string>
+
+</resources>

@@ -1,0 +1,7 @@
+#Sun Nov 27 22:37:11 CST 2016
+base.0=C\:\\Users\\Johnny\\AndroidStudioProjects\\SMS By Voice\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ed495b203d5a558061837fe01fe1378507e46833
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Johnny\\AndroidStudioProjects\\SMS By Voice\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_7170178fa708b2525cdf2c3e11d07de53b222808\\classes.dex
+base.1=C\:\\Users\\Johnny\\AndroidStudioProjects\\SMS By Voice\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_7170178fa708b2525cdf2c3e11d07de53b222808
+file.0=C\:\\Users\\Johnny\\AndroidStudioProjects\\SMS By Voice\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ed495b203d5a558061837fe01fe1378507e46833\\classes.dex
